@@ -1,17 +1,16 @@
 ![LogoMakerCa-1686673032510-removebg-preview](https://itnowinc.com/wp-content/uploads/2022/11/ITnow-logoArtboard-1-copy.png)
 
 ### Deloployed Links
+
 user-Registration on [Netlify](https://classy-bienenstitch-ed2a7a.netlify.app/) <br>
 Weather-App on [Netlify](https://flourishing-bonbon-407a0b.netlify.app/)
 --
 
 ### command to run
 
-npm start
+### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.
 --
 
 #### TechStack used

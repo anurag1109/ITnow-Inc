@@ -8,6 +8,10 @@ Weather-App on [Netlify](https://flourishing-bonbon-407a0b.netlify.app/)
 ### command to run
 
 npm start
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.
 --
 
 #### TechStack used

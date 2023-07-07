@@ -8,7 +8,9 @@ Backend on [vercel](https://flexfit-git-main-anurag1109.vercel.app/) <br>
 Frontend on [vercel](https://flexfit-frontend.vercel.app/)
 
 
-### Tech Stack
+### command to run
+
+mpm start
 
 #### Front-End
 -  HTML 
